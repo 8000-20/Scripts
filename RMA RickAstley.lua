@@ -174,6 +174,7 @@ _.Text="\73\110\115\101\114\116\32\109\101\115\115\97\103\101\32\104\101\114\101
 
 while not Stop do
 	for i,v in Frames do
+		if Stop then break end
 		game:GetService("ReplicatedStorage"):WaitForChild("CustomiseBooth"):FireServer("Update",{["DescriptionText"] = _.Text,["ImageId"] = tonumber(v)})
 		task.wait(0.0833333333)--12 FPS
 	end
