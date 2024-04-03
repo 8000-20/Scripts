@@ -1,0 +1,4 @@
+for lazy people
+
+BoothChat v2  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/BoothChat%20v2.lua'))()
+RMA RickAstley  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/RMA%20RickAstley.lua'))()
