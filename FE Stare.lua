@@ -1,5 +1,5 @@
 --[[
-Made by Burgundy
+Made by Burgundy(8000-20)
 Game: Any game with R6 support
 Description: Makes your character stare at the nearest player.
 Instuctions: make sure your avatar is R6 and run script.
