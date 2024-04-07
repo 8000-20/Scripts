@@ -1,5 +1,5 @@
 --[[
-Made by Burgundy
+Made by Burgundy(8000-20)
 Game: Rate My Avatar
 Description: Puts a short portion of RickAstley never gonna give you up as your booth image.
 Instuctions: Join game, Claim booth, Run script, Wait for frames to load.
