@@ -1,5 +1,5 @@
 --[[
-Made by Burgundy
+Made by Burgundy(8000-20)
 Game: Rate My Avatar
 Description: Basically chat logs except every one can see it.
 Instuctions: Join game, Claim booth, Run script.
