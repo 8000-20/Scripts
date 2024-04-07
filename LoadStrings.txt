@@ -3,3 +3,4 @@ for lazy people
 BoothChat v2  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/BoothChat%20v2.lua'))()
 RMA RickAstley  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/RMA%20RickAstley.lua'))()
 FE Stare  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/FE%20Stare.lua'))()
+Hacker Chat v2 loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/Hacker%20Chat%20v2.lua'))()
