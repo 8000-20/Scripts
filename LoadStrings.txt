@@ -4,3 +4,5 @@ BoothChat v2  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20
 RMA RickAstley  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/RMA%20RickAstley.lua'))()
 FE Stare  loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/FE%20Stare.lua'))()
 Hacker Chat v2 loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/Hacker%20Chat%20v2.lua'))()
+Low Quality loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/Low%20Quality.lua'))()
+BoothChat Rickroll version loadstring(game:HttpGet('https://raw.githubusercontent.com/8000-20/Scripts/main/BoothChatRickrollVersion.lua'))()
